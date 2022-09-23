@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Citys.png</file>
+    </qresource>
+</RCC>
